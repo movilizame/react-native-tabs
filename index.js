@@ -98,4 +98,4 @@ var styles = StyleSheet.create({
     },
 });
 
-module.exports = Tabs;
+export default Tabs;
